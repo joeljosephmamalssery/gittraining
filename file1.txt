@@ -7,4 +7,3 @@ new line
 Another one
 
 
-last line
