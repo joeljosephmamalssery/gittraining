@@ -5,3 +5,6 @@ This is master
 new line
 
 Another one
+
+
+last line
